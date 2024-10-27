@@ -212,7 +212,7 @@ export default function SeriesAndEpisodes() {
                 <ContactUs />
                 <ExoclickOutStreamVideo />
                 <ExoclickVideoSlider />
-                {/* <ExoclickBanner /> */}
+                <ExoclickBanner />
                 {/* <AdsterraNativeBanner /> */}
                 {/* <AdsterraBanner /> */}
                 {/* <AdsterraPopunderFor /> */}
